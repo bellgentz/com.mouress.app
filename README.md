@@ -7,6 +7,6 @@ git init
 git remote add origin SSH_REPO
 git config --global
 git commit -m "message"
-hjhijoo
+git push
  
 '''
